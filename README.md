@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div align="center">
   <img src="static/images/prediction-image.jpg" alt="Prediction Image">
 </div>
 
