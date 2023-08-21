@@ -1,4 +1,7 @@
-![](static/images/prediction-image.jpg)<br>
+<div style="text-align:center;">
+  <img src="static/images/prediction-image.jpg" alt="Prediction Image">
+</div>
+
 <h1 align="center">Prediction</h1>
 <p align="center"><strong>Console Edition - by Amit Cohen & Aviv Galily</strong>
 <br>Students Project for Java Course - The Academic College of Tel Aviv - Yaffo</p>
@@ -39,12 +42,13 @@ The system is designed to facilitate the creation and execution of simulations t
 <h2>How to Run a Simulation?</h2>
 
 1. Clone this repository
-2. Open the CMD with thw folder path 'submit' path
-3. Write the command: run.bat
+2. Open the CMD with the folder path 'submit' path
+3. Write the command:
 
   ```run
   run.bat
   ```
+  
 4. load XML files from the folder 'test-files' to run simulations.
 
 
