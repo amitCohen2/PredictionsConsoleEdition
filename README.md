@@ -42,7 +42,7 @@ The system is designed to facilitate the creation and execution of simulations t
 <h2>How to Run a Simulation?</h2>
 
 1. Clone this repository
-2. Open the CMD with the folder path 'submit' path
+2. Open the CMD with the folder path 'submit'
 3. Write the command:
 
   ```run
