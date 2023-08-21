@@ -2,7 +2,7 @@
   <img src="static/images/prediction-image.jpg" alt="Prediction Image">
 </div>
 
-<h1 align="center">Prediction</h1>
+<h1 align="center">Predictions</h1>
 <p align="center"><strong>Console Edition - by Amit Cohen & Aviv Galily</strong>
 <br>Students Project for Java Course - The Academic College of Tel Aviv - Yaffo</p>
 
