@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ex1_Predictions.iml" filepath="$PROJECT_DIR$/Ex1_Predictions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SystemEngine/Logic.iml" filepath="$PROJECT_DIR$/SystemEngine/Logic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserInterface/UserInterface.iml" filepath="$PROJECT_DIR$/UserInterface/UserInterface.iml" />
+    </modules>
+  </component>
+</project>
